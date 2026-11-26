@@ -67,29 +67,4 @@ To enable the resume download button, put your PDF in `public/` and set `resumeU
 
 ---
 
-## Original README notes (preserved from the repository)
 
-# Vyash Skills And Stories
-
-certificates: 1. https://certificates.mooc.fi/validate/0j37pjx2ofd 2. https://www.freecodecamp.org/certification/fcc-a60566e4-3a89-4b93-b004-315f1330e84d/responsive-web-design-v9 3. REPLACE EXISTINT LINK FOR LINKEDIN WITH THIS: https://www.linkedin.com/in/vyash-s-1a3718304/. 4. FOR TECHNICAL SKILLS, INLCUDE THE LOGO OF THE TECHNOLOGY, LIKE FOR JAVA PYHTHON ETC INCLUDE THEIR LOGO IN AN AESTHETIC M
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/b1391847-f221-4859-b421-bcae9d900fe4).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
