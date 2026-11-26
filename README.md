@@ -1,4 +1,5 @@
-# Vyash Skills And Stories
+# PORTFOLIO WEBSITE
+
 
 Personal developer portfolio for **S. Vyash** — a single-page site with Home, About, Skills, Projects, Experience, Certifications/Achievements and Contact sections, scroll-reveal animations and active-section navigation.
 
